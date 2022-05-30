@@ -4,7 +4,7 @@
 _G.Reaper = false -- this decides if you want to be bat shit hard to kill or frisk mode where you're legit just fucking arround but still op lmb tho and plus loo cooldown moves
 _G.Weapons = false -- lets you keep your weapon wheel in non reaper revived mode keep it true if you wanna keep weapons i know i know its weird but just trust me LMAO
 _G.InkTale = false --decides if you wanna have the inktale menu music or not
-_G.SwapSwap = true --if you want SwapSwap: Skulliosis Megalovania as the main menu music LMAO
+_G.SwapSwap = false --if you want SwapSwap: Skulliosis Megalovania as the main menu music LMAO
 _G.Steven = false --makes it so in non reaper mode and in revival stage you got steve auto block disable if you fucking hate it LMAO
 --also keep steven to true if you dont want it i know i know its like the weapon shit just stfu about it LMAO sorry but yeah do that and you wont have steve block
 
