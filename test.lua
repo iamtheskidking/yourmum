@@ -1,7 +1,7 @@
 --//instructions and guides
 -- this script was made and brought to you for free By:Bexrie#7117,Dm Them If You Need Any Support on the script!
 --lmb may break from time to time just rejoin and it'll fix itself just dont press the keybind for selecting weapons shit when you have the weapon selector disabled in here!!!
-_G.Reaper = true -- this decides if you want to be bat shit hard to kill or frisk mode where you're legit just fucking arround but still op lmb tho and plus loo cooldown moves
+_G.Reaper = false -- this decides if you want to be bat shit hard to kill or frisk mode where you're legit just fucking arround but still op lmb tho and plus loo cooldown moves
 _G.Weapons = true -- lets you keep your weapon wheel in non reaper revived mode keep it true if you wanna keep weapons i know i know its weird but just trust me LMAO
 _G.InkTale = false --decides if you wanna have the inktale menu music or not
 _G.SwapSwap = false --if you want SwapSwap: Skulliosis Megalovania as the main menu music LMAO
