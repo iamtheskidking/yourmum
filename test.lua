@@ -39,14 +39,6 @@ local mainModule = require(rep:WaitForChild("ClientModules").MainModule)
 workspace.FallenPartsDestroyHeight = "-nan"
 local changed = {}
 
-for i,v in pairs(effectsOverhaul:GetChildren()) do
-	local old = rep.Effects:FindFirstChild(v.Name)
-	if old then
-		old:Destroy()
-		v.Parent = rep.Effects
-		changed[v.Name] = true
-	end
-end
 
 if changeMap then
 	workspace.Terrain:Clear()
